@@ -1,0 +1,8 @@
+package com.winwin.session;
+
+import com.winwin.models.dto.UserDTO;
+
+public final class SessionContainer {
+
+	public static final UserDTO userSession = null;
+}

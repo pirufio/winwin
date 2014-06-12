@@ -1,0 +1,7 @@
+INDEX VERSION 1.126+D:\Programacion\Proyectos\WinWin\trunk\.metadata\.plugins\org.eclipse.jdt.core
+2018719502.index
+26586495.index
+1646868769.index
+1284074322.index
+445776969.index
+1775894306.index

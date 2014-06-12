@@ -1,0 +1,21 @@
+D:\Programacion\Proyectos\WinWin\trunk\WinWIn.AndroidApp\gen\WinWin\AndroidApp\R.java \
+ : D:\Programacion\Proyectos\WinWin\trunk\WinWIn.AndroidApp\res\drawable-hdpi\avatar.png \
+D:\Programacion\Proyectos\WinWin\trunk\WinWIn.AndroidApp\res\drawable-hdpi\ic_launcher.png \
+D:\Programacion\Proyectos\WinWin\trunk\WinWIn.AndroidApp\res\drawable-ldpi\avatar.png \
+D:\Programacion\Proyectos\WinWin\trunk\WinWIn.AndroidApp\res\drawable-ldpi\ic_launcher.png \
+D:\Programacion\Proyectos\WinWin\trunk\WinWIn.AndroidApp\res\drawable-mdpi\avatar.png \
+D:\Programacion\Proyectos\WinWin\trunk\WinWIn.AndroidApp\res\drawable-mdpi\ic_launcher.png \
+D:\Programacion\Proyectos\WinWin\trunk\WinWIn.AndroidApp\res\drawable-xhdpi\avatar.png \
+D:\Programacion\Proyectos\WinWin\trunk\WinWIn.AndroidApp\res\drawable-xhdpi\ic_launcher.png \
+D:\Programacion\Proyectos\WinWin\trunk\WinWIn.AndroidApp\res\layout\main.xml \
+D:\Programacion\Proyectos\WinWin\trunk\WinWIn.AndroidApp\res\values\strings.xml \
+D:\Programacion\Proyectos\WinWin\trunk\WinWIn.AndroidApp\res\values\style.xml \
+D:\Programacion\Proyectos\WinWin\trunk\WinWIn.AndroidApp\bin\res\drawable-hdpi\avatar.png \
+D:\Programacion\Proyectos\WinWin\trunk\WinWIn.AndroidApp\bin\res\drawable-hdpi\ic_launcher.png \
+D:\Programacion\Proyectos\WinWin\trunk\WinWIn.AndroidApp\bin\res\drawable-ldpi\avatar.png \
+D:\Programacion\Proyectos\WinWin\trunk\WinWIn.AndroidApp\bin\res\drawable-ldpi\ic_launcher.png \
+D:\Programacion\Proyectos\WinWin\trunk\WinWIn.AndroidApp\bin\res\drawable-mdpi\avatar.png \
+D:\Programacion\Proyectos\WinWin\trunk\WinWIn.AndroidApp\bin\res\drawable-mdpi\ic_launcher.png \
+D:\Programacion\Proyectos\WinWin\trunk\WinWIn.AndroidApp\bin\res\drawable-xhdpi\avatar.png \
+D:\Programacion\Proyectos\WinWin\trunk\WinWIn.AndroidApp\bin\res\drawable-xhdpi\ic_launcher.png \
+D:\Programacion\Proyectos\WinWin\trunk\WinWIn.AndroidApp\bin\AndroidManifest.xml \

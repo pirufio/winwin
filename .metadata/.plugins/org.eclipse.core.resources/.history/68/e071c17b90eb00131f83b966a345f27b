@@ -1,0 +1,32 @@
+package com.winwin.models.dto;
+
+import org.codehaus.jackson.annotate.JsonProperty;
+
+public class UserLoginDTO {
+	
+	private String email;
+	private String password;
+	
+	public UserLoginDTO(String pUserName, String pPassword){
+		email = pUserName;
+		password = pPassword;
+	}
+	
+	@JsonProperty("UserName")
+	public String getUserName() {
+		return email;
+	}
+	@JsonProperty("UserName")
+	public void setUserName(String userName) {
+		this.email = userName;
+	}
+	
+	@JsonProperty("Password")
+	public String getPassword() {
+		return password;
+	}
+	@JsonProperty("Password")
+	public void setPassword(String password) {
+		this.password = password;
+	}
+}
