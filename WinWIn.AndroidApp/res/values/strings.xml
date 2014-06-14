@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">WinWin</string>
-    <string name="app_title">Ingresar a WIN - WIN</string>
-    <string name="app_email">email</string>
-    <string name="app_password">password</string>
-    <string name="app_login">Login</string>
-    <string name="app_logo">logo</string>
-</resources>
