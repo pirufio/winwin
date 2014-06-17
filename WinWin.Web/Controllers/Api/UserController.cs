@@ -44,6 +44,9 @@ namespace WinWin.Web.Controllers.Api
         {
             if (ModelState.IsValid)
             {
+                usuario.FechaNacimiento = DateTime.Now;
+                usuario.Nombre = "";
+                usuario.Apellido = "";
                 repo.Add(usuario);
             }
             else

@@ -17,8 +17,11 @@ namespace WinWin.Web.Models
         [StringLength(255)]
         public virtual string Email { get; set; }
         [Required]
+        [StringLength(255)]
+        public virtual string User { get; set; }
+
         public virtual string Nombre { get; set; }
-        [Required]
+        
         public virtual string Apellido { get; set; }
 
         public virtual DateTime FechaNacimiento { get; set; }

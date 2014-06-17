@@ -37,6 +37,10 @@ public class MainActivity extends ActionBarActivity {
         
         Button loginButton = (Button)findViewById(R.id.btn_login);
         loginButton.setOnClickListener(loginButtonOnClick);
+        
+        Button registerButton = (Button)findViewById(R.id.btn_register);
+        registerButton.setOnClickListener(registerButtonOnClick);
+        
         progress = new ProgressDialog(this);
     }
     
@@ -52,6 +56,17 @@ public class MainActivity extends ActionBarActivity {
             new HttpAsyncTask().execute(args);
         }
     };
+    
+    private View.OnClickListener registerButtonOnClick 
+    = new View.OnClickListener() {
+
+	public void onClick(View v) {
+			
+		Intent nextScreen = new Intent(getApplicationContext(), RegisterActivity.class);
+		startActivity(nextScreen);
+		
+		}
+	};
     
     private class HttpAsyncTask extends AsyncTask<String, Void, String> {
     	
