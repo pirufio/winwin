@@ -1,15 +1,8 @@
 package com.winwin.andoid.app;
 
-import android.R.drawable;
 import android.app.TabActivity;
-import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
-import android.graphics.drawable.Drawable;
 import android.os.Bundle;
-import android.support.v4.app.FragmentActivity;
 import android.support.v4.view.ViewPager;
-import android.support.v7.app.ActionBar.Tab;
-import android.support.v7.app.ActionBarActivity;
 import android.widget.TabHost;
 
 public class HomeActivity extends TabActivity {

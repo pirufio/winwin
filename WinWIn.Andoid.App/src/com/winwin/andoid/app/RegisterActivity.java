@@ -3,7 +3,6 @@ import java.io.IOException;
 
 import org.apache.http.client.ClientProtocolException;
 import org.codehaus.jackson.JsonGenerationException;
-import org.codehaus.jackson.JsonParseException;
 import org.codehaus.jackson.map.JsonMappingException;
 import org.codehaus.jackson.map.ObjectMapper;
 
@@ -20,9 +19,7 @@ import android.widget.Toast;
 
 import com.winwin.config.Constants;
 import com.winwin.http.HttpServiceHandler;
-import com.winwin.models.dto.UserDTO;
 import com.winwin.models.dto.UserRegisterDTO;
-import com.winwin.session.SessionContainer;
 import com.winwin.validators.Validators;
 
 public class RegisterActivity extends ActionBarActivity {
